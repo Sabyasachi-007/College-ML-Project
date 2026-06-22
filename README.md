@@ -12,7 +12,7 @@ This repository contains the two final projects of our ML Lab curriculum during 
 * **Project 1:** Agricultural Yield Prediction
 * **Project 2:** Stock Market Trend Prediction
 
-## Group Member
+## Group Members
 
 The projects were made by :-
 1. Manjit Dey
@@ -21,10 +21,10 @@ The projects were made by :-
 4. Pratik Kumar Singh
 5. Sabyasachi Sinha
 
-## Projects Links and Report
+## Project's Links and Report
 
 * **Project 1 Link** - https://agricultural-yield-college-ml.streamlit.app/
 * **Project 2 Link** - https://stock-market-trend-prediction.streamlit.app/ 
 
-The project report can be viwed here :-
+The project report can be viewed here :-
 https://docs.google.com/document/d/1Y54RDMnQy41vqG_EajcjmgrQpmxtzy724xreR08EPo0/edit?usp=sharing
